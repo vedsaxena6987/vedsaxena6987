@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Saxena</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India. I'm currently diving into AngularJS and continuously expanding my skills in web development and data structures & algorithms (DSA) in C++.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedsaxena6987&label=Profile%20views&color=0e75b6&style=flat" alt="vedsaxena6987" /> </p>
 
@@ -28,5 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedsaxena6987&show_icons=true&locale=en" alt="vedsaxena6987" /></p>
 
-![vedsaxena6987's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vedsaxena6987)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedsaxena6987&" alt="vedsaxena6987" /></p>
