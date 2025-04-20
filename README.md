@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vedant Saxena</h1>
-<h3 align="center">A passionate frontend developer from India. I'm currently diving into AngularJS and continuously expanding my skills in web development and data structures & algorithms (DSA) in C++.</h3>
+<h3 align="center">👋 Hey there! I'm Vedant Saxena, a curious coder and AI/ML enthusiast passionate about creating practical and impactful software solutions. From building machine learning models for healthcare to developing AI-powered code security tools, digital personal assistants, network utilities, and  data structures & algorithms (DSA) in C++ — I love experimenting with new technologies and turning ideas into reality.
+💻 Check out my repositories for projects on AI/ML, full-stack web development, and personal tools. Always open to learning, collaboration, and open-source contributions!
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedsaxena6987&label=Profile%20views&color=0e75b6&style=flat" alt="vedsaxena6987" /> </p>
 
