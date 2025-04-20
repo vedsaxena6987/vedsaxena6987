@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedsaxena6987&label=Profile%20views&color=0e75b6&style=flat" alt="vedsaxena6987" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedsaxena6987" alt="vedsaxena6987" /></a> </p>
+
 
 - 🌱 I’m currently learning **AngularJS**
 
