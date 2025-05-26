@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vedant Saxena</h1>
+<h1 align="center">Hey 👋, I'm Vedant Saxena</h1>
 <h3 align="center">👋 Hey there! I'm Vedant Saxena, a curious coder and AI/ML enthusiast passionate about creating practical and impactful software solutions. From building machine learning models for healthcare to developing AI-powered code security tools, digital personal assistants, network utilities, and  data structures & algorithms (DSA) in C++ — I love experimenting with new technologies and turning ideas into reality.
 💻 Check out my repositories for projects on AI/ML, full-stack web development, and personal tools. Always open to learning, collaboration, and open-source contributions!
 
